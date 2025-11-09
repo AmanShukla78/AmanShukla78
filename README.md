@@ -7,9 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # About me 🚀
 
 Hello! I'm Aman Shukla – a passionate Software Developer and recent BCA graduate with hands-on experience in building full-stack applications.
-My technical journey has evolved from writing basic scripts to developing scalable web solutions using technologies like Python, Django, MERN Stack (MongoDB, Express.js, React, Node.js), and MySQL.
+My technical journey has evolved from writing basic scripts to developing scalable web solutions using technologies like Python, Django, Selenium and MySQL.
 
-With a strong foundation in data structures, algorithms, and object-oriented programming, I take pride in writing clean, maintainable code and crafting user-friendly digital experiences. Whether it's developing RESTful APIs with Django, building interactive UIs with React, or handling backend logic with Node.js – I enjoy every part of the development lifecycle.
+With a strong foundation in data structures, algorithms, and object-oriented programming, I take pride in writing clean, maintainable code and crafting user-friendly digital experiences. Whether it's developing RESTful APIs with Django, building interactive UIs  or handling backend logic I enjoy every part of the development lifecycle.
 
 I'm deeply driven by curiosity, collaboration, and the potential of technology to solve real-world problems. I thrive in fast-paced environments, love learning new tools and frameworks, and am always eager to contribute to impactful projects.
 
